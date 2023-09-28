@@ -1,0 +1,3 @@
+###Введение
+import this 
+print('Hello World!')
